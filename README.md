@@ -6,6 +6,11 @@ Version 1.0.0
 
 --- 
 
+#### Functions
+- merging all PDF files from directory in the ascending order.
+
+--- 
+
 #### Technologies
 * Python
 
